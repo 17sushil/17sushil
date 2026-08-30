@@ -151,9 +151,9 @@ React SPA ──HTTP──▶ Express API ──Prisma──▶ PostgreSQL
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-17sushil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17sushil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushil_Ghimire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-ghimire)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/17sushil/My-portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushil_Ghimire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-ghimire-959a64327)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sushil-ghimire-personal-portfolio.b12sites.com/index)
+[![Instagram](https://img.shields.io/badge/Instagram-sushil_ghimire.17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sushil_ghimire.17/)
 
 </div>
 
