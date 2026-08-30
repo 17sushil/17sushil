@@ -6,7 +6,7 @@
 
 </div>
 
-## ⚡ About Me
+##  About Me
 
 ```js
 const sushil = {
@@ -22,15 +22,15 @@ const sushil = {
 };
 ```
 
-- 🎯 I design and build **beautiful, functional, user-friendly web experiences**
-- 🧠 I love the full journey — from **UI pixels** to **Express APIs** to **training XGBoost models**
-- 🏥 Currently shipping **MedBridge**, a hospital medicine-exchange platform for Nepal
-- 🚀 Deploying real projects — [Drop Word Challenge is live](https://drop-word-challenge.vercel.app)
-- 🤝 **Open to collaborations & opportunities** — let's build something people love
+- I design and build **beautiful, functional, user-friendly web experiences**
+- I love the full journey — from **UI pixels** to **Express APIs** to **training XGBoost models**
+- Currently shipping **MedBridge**, a hospital medicine-exchange platform for Nepal
+- Deploying real projects — [Drop Word Challenge is live](https://drop-word-challenge.vercel.app)
+- **Open to collaborations & opportunities** — let's build something people love
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,14 +64,14 @@ const sushil = {
 
 ---
 
-## 🚀 Flagship Project
+## Flagship Project
 
 <div align="center">
 <table>
 <tr>
 <td width="100%">
 
-### 🏥 [MedBridge](https://github.com/17sushil/MedBridge)
+### [MedBridge](https://github.com/17sushil/MedBridge)
 **Hospital Medicine-Exchange Platform for Nepal**
 
 Hospitals track their own medicine inventory (batches, quantities, expiry, pricing),
@@ -100,24 +100,24 @@ React SPA ──HTTP──▶ Express API ──Prisma──▶ PostgreSQL
 </table>
 </div>
 
-### 🧩 More Projects
+###  More Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [🗣️ **Voice Email System**](https://github.com/17sushil/voice-email-system) | Offline-first voice assistant — *send, read, search & reply to emails by speech*. STT runs 100% locally, no audio ever leaves your machine | `Python` `Vosk` `IMAP/SMTP` `pyttsx3` |
-| [🏢 **Nobel Trade Concern**](https://github.com/17sushil/Nobel-Trade-Concern) | Company web platform with client app, API & server — deployed on Vercel | `JavaScript` `Vercel` |
-| [✂️ **Barber Booking System**](https://github.com/17sushil/Barber-Booking-System) | Appointment booking system with a smooth booking flow | `JavaScript` |
-| [📌 **Kanban Board**](https://github.com/17sushil/Kanban-) | Dynamic task board with full drag-&-drop interaction | `JavaScript` `HTML` `CSS` |
-| [🎓 **Student Dashboard**](https://github.com/17sushil/STUDENT-DASHBOARD) | Clean student dashboard UI with sidebar navigation | `JavaScript` |
-| [🐍 **Snake Game**](https://github.com/17sushil/Snake-Game) | The classic, hand-rolled in vanilla JS | `JavaScript` |
-| [🎨 **UI Design & Clones**](https://github.com/17sushil/UI-design) + [Sundown clone](https://github.com/17sushil/Sundown-Website-Clone) + [Pinterest clone](https://github.com/17sushil/Pinterest) | Pixel-focused UI cloning practice — sharp eyes are earned here | `CSS` `HTML` |
-| [⌨️ **Drop Word Challenge**](https://github.com/17sushil/Drop_Word_Challenge) — ▶️ [LIVE DEMO](https://drop-word-challenge.vercel.app) | Typing-speed booster game | `Python` |
-| [🚕 **Taxi Fare Prediction**](https://github.com/17sushil/Taxi_Fare_Prediction) | ML regression on real trip data | `Python` `Jupyter` |
-| [📊 **Machine Learning Projects**](https://github.com/17sushil/Machine-Learning-Projects) | ML notebooks, basic → pro level | `Jupyter` `Python` |
+| [ **Voice Email System**](https://github.com/17sushil/voice-email-system) | Offline-first voice assistant — *send, read, search & reply to emails by speech*. STT runs 100% locally, no audio ever leaves your machine | `Python` `Vosk` `IMAP/SMTP` `pyttsx3` |
+| [ **Nobel Trade Concern**](https://github.com/17sushil/Nobel-Trade-Concern) | Company web platform with client app, API & server — deployed on Vercel | `JavaScript` `Vercel` |
+| [ **Barber Booking System**](https://github.com/17sushil/Barber-Booking-System) | Appointment booking system with a smooth booking flow | `JavaScript` |
+| [ **Kanban Board**](https://github.com/17sushil/Kanban-) | Dynamic task board with full drag-&-drop interaction | `JavaScript` `HTML` `CSS` |
+| [ **Student Dashboard**](https://github.com/17sushil/STUDENT-DASHBOARD) | Clean student dashboard UI with sidebar navigation | `JavaScript` |
+| [ **Snake Game**](https://github.com/17sushil/Snake-Game) | The classic, hand-rolled in vanilla JS | `JavaScript` |
+| [ **UI Design & Clones**](https://github.com/17sushil/UI-design) + [Sundown clone](https://github.com/17sushil/Sundown-Website-Clone) + [Pinterest clone](https://github.com/17sushil/Pinterest) | Pixel-focused UI cloning practice — sharp eyes are earned here | `CSS` `HTML` |
+| [ **Drop Word Challenge**](https://github.com/17sushil/Drop_Word_Challenge) — ▶️ [LIVE DEMO](https://drop-word-challenge.vercel.app) | Typing-speed booster game | `Python` |
+| [ **Taxi Fare Prediction**](https://github.com/17sushil/Taxi_Fare_Prediction) | ML regression on real trip data | `Python` `Jupyter` |
+| [ **Machine Learning Projects**](https://github.com/17sushil/Machine-Learning-Projects) | ML notebooks, basic → pro level | `Jupyter` `Python` |
 
 ---
 
-## 📊 GitHub Stats & Achievements
+##  GitHub Stats & Achievements
 
 <div align="center">
 
@@ -138,15 +138,15 @@ React SPA ──HTTP──▶ Express API ──Prisma──▶ PostgreSQL
 
 ---
 
-## 🌱 Currently
+##  Currently
 
-- 🔨 Building **MedBridge** — connecting hospitals, powered by AI
-- 📚 Deep-diving **system design** & **LLM applications (RAG)**
-- ✨ Shipping polished frontends — motion, micro-interactions, accessibility
+-  Building **MedBridge** — connecting hospitals, powered by AI
+-  Deep-diving **system design** & **LLM applications (RAG)**
+-  Shipping polished frontends — motion, micro-interactions, accessibility
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
